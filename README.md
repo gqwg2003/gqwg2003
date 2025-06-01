@@ -8,11 +8,11 @@
 
 В свободное время увлекаюсь программированием и изучением новых технологий:
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" height="60" alt="C++" />
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" height="60" alt="Python" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg2cGZuaXNuZ2xtbXE3NHQycnI4NTBteXM2NHRhZnRyZmhremE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZDTbix65Me1YDNLDF3/giphy.gif" width="60" height="60" alt="Java" />
-<img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="60" height="60" alt="Kotlin" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl5ODViOXk4YWo1aTBsZjU5ZW9weGs1OXA3bGhldTc2eXlwaXljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif" width="60" height="60" alt="C#" />
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ## 🌐 Языки
 
