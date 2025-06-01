@@ -95,17 +95,23 @@ const developer = {
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Языки общения
 
 <div align="center">
-  <table style="border:none;" align="center">
+  <table style="border:none; border-collapse: separate; border-spacing: 15px;" align="center">
     <tr>
-      <td align="right"><h3>🇷🇺 Русский</h3></td>
-      <td align="left">
-        <img src="https://progress-bar.dev/100/?scale=100&width=250&color=0969DA&suffix=%" alt="100%">
+      <td align="right" width="180"><h3>🇷🇺 Русский</h3></td>
+      <td align="left" width="300">
+        <div style="display: flex; align-items: center;">
+          <div style="background: linear-gradient(to right, #0969DA 100%, #E0E0E0 0%); height: 10px; width: 250px; border-radius: 5px;"></div>
+          <span style="margin-left: 10px; font-weight: bold; color: #0969DA;">100%</span>
+        </div>
       </td>
     </tr>
     <tr>
-      <td align="right"><h3>🇬🇧 Английский</h3></td>
-      <td align="left">
-        <img src="https://progress-bar.dev/74/?scale=100&width=250&color=0969DA&suffix=%" alt="74%">
+      <td align="right" width="180"><h3>🇬🇧 Английский</h3></td>
+      <td align="left" width="300">
+        <div style="display: flex; align-items: center;">
+          <div style="background: linear-gradient(to right, #0969DA 74%, #E0E0E0 74%); height: 10px; width: 250px; border-radius: 5px;"></div>
+          <span style="margin-left: 10px; font-weight: bold; color: #0969DA;">74%</span>
+        </div>
       </td>
     </tr>
   </table>
