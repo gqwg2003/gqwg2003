@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&height=50&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -50,9 +50,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&currStreakLabel=4F46E5&sideNums=FFFFFF&sideLabels=4F46E5&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=FFFFFF&currStreakLabel=4F46E5&sideNums=FFFFFF&sideLabels=4F46E5&dates=FFFFFF" alt="GitHub Streak" />
   
 </div>
 
