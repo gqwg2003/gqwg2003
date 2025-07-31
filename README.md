@@ -16,16 +16,9 @@
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=200&height=30&lines=Russian+100%25" alt="Russian" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=200&height=30&lines=English+75%25" alt="English" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Russian-100%25-10B981?style=for-the-badge&logo=google-translate&logoColor=white" alt="Russian" />
+  
+  <img src="https://img.shields.io/badge/English-75%25-3B82F6?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" />
 
 </div>
 
@@ -35,48 +28,19 @@
 
 <div align="center">
   
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 20px 0;">
-    
-    <!-- C++ -->
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00599C&center=true&vCenter=true&width=120&height=25&lines=C%2B%2B" alt="C++" />
-      <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    </div>
-    
-    <!-- Python -->
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=3776AB&center=true&vCenter=true&width=120&height=25&lines=Python" alt="Python" />
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </div>
-    
-    <!-- Java -->
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=ED8B00&center=true&vCenter=true&width=120&height=25&lines=Java" alt="Java" />
-      <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </div>
-    
-  </div>
+  ### 🚀 Основные технологии
   
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 20px 0;">
-    
-    <!-- Kotlin -->
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7F52FF&center=true&vCenter=true&width=120&height=25&lines=Kotlin" alt="Kotlin" />
-      <br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-    </div>
-    
-    <!-- C# -->
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=239120&center=true&vCenter=true&width=120&height=25&lines=C%23" alt="C#" />
-      <br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    </div>
-    
-  </div>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  
+  ### 📚 Изучаю
+  
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
 </div>
 
