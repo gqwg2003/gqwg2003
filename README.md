@@ -31,7 +31,7 @@
 
 <div align="center">
   
-  ### 🚀 Основные технологии
+  ### 💼 Уверена владею
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00599C&center=true&vCenter=true&width=120&height=25&lines=C%2B%2B" alt="C++" />
   <br/>
