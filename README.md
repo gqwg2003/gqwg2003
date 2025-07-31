@@ -14,13 +14,16 @@
 
 ## 🌍 Языки
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Russian-100%25-10B981?style=for-the-badge&logo=google-translate&logoColor=white" alt="Russian" />
-  
-  <img src="https://img.shields.io/badge/English-75%25-3B82F6?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" />
-
-</div>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=200&height=30&lines=Russian+100%25" alt="Russian" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=200&height=30&lines=English+75%25" alt="English" />
+      </td>
+    </tr>
+  </table>
 
 ---
 
