@@ -1,34 +1,3 @@
-# 👨‍💻 Разработчик
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=gqwg2003&color=blue&style=flat-square)
-  
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1500&color=4F46E5&center=true&vCenter=true&width=435&height=50&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F" alt="Typing SVG" />
-  </div>
-
-</div>
-
----
-
-## 🌍 Языки
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1500&color=10B981&center=true&vCenter=true&width=200&height=30&lines=Russian+100%25" alt="Russian" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=200&height=30&lines=English+75%25" alt="English" />
-      </td>
-    </tr>
-  </table>
-
----
-
-## 💻 Технологии
-
 <div align="center">
   
   ### 💼 Уверена владею
