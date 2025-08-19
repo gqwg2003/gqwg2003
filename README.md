@@ -33,10 +33,3 @@
   
 </div>
 
----
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=6B7280&center=true&vCenter=true&width=400&height=25&lines=Thanks+for+visiting!+%F0%9F%92%96" alt="Thanks" />
-  
-</div> 
