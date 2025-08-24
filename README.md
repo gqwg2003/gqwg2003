@@ -1,7 +1,5 @@
 <div align="center">
   
-  ### 💼 Уверена владею
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00599C&center=true&vCenter=true&width=120&height=25&lines=C%2B%2B" alt="C++" />
   <br/>
   
@@ -10,8 +8,6 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=ED8B00&center=true&vCenter=true&width=120&height=25&lines=Java" alt="Java" />
   <br/>
-  
-  ### 📚 Изучаю
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7F52FF&center=true&vCenter=true&width=120&height=25&lines=Kotlin" alt="Kotlin" />
   <br/>
@@ -23,7 +19,7 @@
 
 ---
 
-## 📊 Статистика
+## 📊 Some fun statistics stuff!
 
 <div align="center">
   
