@@ -1,4 +1,4 @@
-hello To all👋
+Hello To all👋 ( Привет всем👋 )
 
 <div align="center">
   
